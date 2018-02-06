@@ -1,2 +1,3 @@
 # spring-boot-template
-Springboot HelloWorld application
+
+Simple springboot application with a rest controller
